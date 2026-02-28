@@ -1,0 +1,5 @@
+{
+  "name": "Remix: MIRAGE — Privacy Shapeshifter",
+  "description": "A next-generation privacy firewall that detects and replaces sensitive data in images with convincing synthetic data using AI.",
+  "requestFramePermissions": []
+}
